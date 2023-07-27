@@ -15,7 +15,7 @@
     "bottleneck": "^2.19.5",
     "lodash.get": "^4.4.2",
     "lodash.topath": "^4.5.2",
-    "shopify-api-node": "^3.12.4"
+    "shopify-api-node": "^3.12.6"
   },
   "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
   "publishConfig": {
